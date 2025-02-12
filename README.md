@@ -1,6 +1,6 @@
 # Hi there! 👋 My name's Victoria Uriostegui(she/her) 💌
 
-![Estamos Aqui!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3vGKbWAJ_15jPE5oEf01eq6ezKJVZHINsA&s](https://media.licdn.com/dms/image/v2/D4D16AQE8KfIOay6d1w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1682004911006?e=2147483647&v=beta&t=_VvYkE41x57WWKuYnqEH_NsZLbF_uARNvDV7nvZhlwM))
+![Banner!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3vGKbWAJ_15jPE5oEf01eq6ezKJVZHINsA&s](https://media.licdn.com/dms/image/v2/D4D16AQE8KfIOay6d1w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1682004911006?e=2147483647&v=beta&t=_VvYkE41x57WWKuYnqEH_NsZLbF_uARNvDV7nvZhlwM)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-pyanl&psig=AOvVaw0TEcfp00UXU_gyFtcATDO4&ust=1739424058796000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjInN2xvYsDFQAAAAAdAAAAABAE))
 
 ## 💟 About Me! 💟
 
