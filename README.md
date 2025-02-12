@@ -1,5 +1,5 @@
 # Hi there! 👋 My name's Victoria Uriostegui(she/her) 💌
-![Art from Latino Cultural Arts Center in Denver](images/86d3e7_8e467cf00c86439ab0c68be996149703~mv2.jpg)
+![Art from Latino Cultural Arts Center in Denver]([images/86d3e7_8e467cf00c86439ab0c68be996149703~mv2.jpg](https://github.com/victoria-uriostegui/victoria-uriostegui/blob/main/Image.png))
 ## 💟 About Me! 💟
 
 I'm a first-generation Mexican-American 🇲🇽 and first-generation college student 📚 currently attending Cal State University, Fullerton. 🐘📍 I am driven by love for learning! 🤓 My goal is to become the first engineer in my family, bridge connections, learn new skills, and give back to my community. 🫂
