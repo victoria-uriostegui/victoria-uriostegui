@@ -1,5 +1,5 @@
 # Hi there! 👋 My name's Victoria Uriostegui(she/her) 💌
-<img src="(https://static.wixstatic.com/media/86d3e7_8e467cf00c86439ab0c68be996149703~mv2.jpg/v1/fill/w_1920,h_760,al_c/86d3e7_8e467cf00c86439ab0c68be996149703~mv2.jpg)">
+![alt text]([http://url/to/img.png](https://static.wixstatic.com/media/86d3e7_8e467cf00c86439ab0c68be996149703~mv2.jpg/v1/fill/w_1920,h_760,al_c/86d3e7_8e467cf00c86439ab0c68be996149703~mv2.jpg))
 ## 💟 About Me! 💟
 
 I'm a first-generation Mexican-American 🇲🇽 and first-generation college student 📚 currently attending Cal State University, Fullerton. 🐘📍 I am driven by love for learning! 🤓 My goal is to become the first engineer in my family, bridge connections, learn new skills, and give back to my community. 🫂
