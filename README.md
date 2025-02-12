@@ -1,4 +1,4 @@
-# Hii there! 👋 My name's Victoria Uriostegui(she/her) 💌
+# Hi there! 👋 My name's Victoria Uriostegui(she/her) 💌
 
 ![Estamos Aqui!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3vGKbWAJ_15jPE5oEf01eq6ezKJVZHINsA&s](https://media.licdn.com/dms/image/v2/D4D16AQE8KfIOay6d1w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1682004911006?e=2147483647&v=beta&t=_VvYkE41x57WWKuYnqEH_NsZLbF_uARNvDV7nvZhlwM))
 
