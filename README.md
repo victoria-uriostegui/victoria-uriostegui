@@ -2,7 +2,7 @@
 ![Art from Latino Cultural Arts Center in Denver](Image.jpeg)
 # 💟 About Me! 💟
 
-I'm a first-generation Mexican-American 🇲🇽 and first-generation college student 📚 currently attending Cal State University, Fullerton. 🐘📍 I am driven by love for learning! 🤓 My goal is to become the first engineer in my family, bridge connections, learn new skills, and give back to my community. 🫂
+I'm a first-generation Mexican-American 🇲🇽 and first-generation college student 📚 currently attending Cal State University, Fullerton.🐘📍 I am driven by love for learning! 🤓 My goal is to become the first engineer in my family, bridge connections, learn new skills, and give back to my community. 🫂
    
 # 📝 Skills 📝
 
