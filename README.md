@@ -1,4 +1,4 @@
-# Hi there! 👋 My name's Victoria Uriostegui(she/her) 💌
+# Hi there! 👋 My name's Victoria (she/her) 💌
 ![Art from Latino Cultural Arts Center in Denver](Image.jpeg)
 # 💟 About Me! 💟
 
