@@ -1,7 +1,5 @@
 # Hi there! 👋 My name's Victoria Uriostegui(she/her) 💌
-
-![Banner!](https://e7.pngegg.com/pngimages/57/19/png-clipart-paper-papel-picado-party-banner-fiesta-assorted-color-bantings-flag-holidays-thumbnail.png](https://www.shepherd.edu/app/uploads/2021/05/Yellow-Red-Tan-Playful-Celebratory-Traditional-Graduation-Banner-800x266.gif)](https://static.wixstatic.com/media/86d3e7_8e467cf00c86439ab0c68be996149703~mv2.jpg/v1/fill/w_1920,h_760,al_c/86d3e7_8e467cf00c86439ab0c68be996149703~mv2.jpg)
-
+<img src="(https://static.wixstatic.com/media/86d3e7_8e467cf00c86439ab0c68be996149703~mv2.jpg/v1/fill/w_1920,h_760,al_c/86d3e7_8e467cf00c86439ab0c68be996149703~mv2.jpg)">
 ## 💟 About Me! 💟
 
 I'm a first-generation Mexican-American 🇲🇽 and first-generation college student 📚 currently attending Cal State University, Fullerton. 🐘📍 I am driven by love for learning! 🤓 My goal is to become the first engineer in my family, bridge connections, learn new skills, and give back to my community. 🫂
