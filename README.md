@@ -1,6 +1,6 @@
 # Hi there! 👋 My name's Victoria Uriostegui(she/her) 💌
 
-![Banner!](https://e7.pngegg.com/pngimages/57/19/png-clipart-paper-papel-picado-party-banner-fiesta-assorted-color-bantings-flag-holidays-thumbnail.png)
+![Banner!](https://e7.pngegg.com/pngimages/57/19/png-clipart-paper-papel-picado-party-banner-fiesta-assorted-color-bantings-flag-holidays-thumbnail.png](https://www.shepherd.edu/app/uploads/2021/05/Yellow-Red-Tan-Playful-Celebratory-Traditional-Graduation-Banner-800x266.gif))
 
 ## 💟 About Me! 💟
 
